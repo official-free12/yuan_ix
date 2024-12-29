@@ -1,0 +1,6 @@
+# [原创]话费充值代理加盟，可封装APP，免公众号版真正完整无错运营版
+
+直接拍为演示版本（提供一个月售后服务，包括更新）<br>本店销售的本源码为原创（其他均为复制本店的）<br>账号密码联系客服<br>example.com.6<br>2020年6月23日12:05:00更新<br>开发日志：<br>优化邀请好友入口位置<br>新增个人中心说明<br>优化实名、订单页面字体过小问题<br>修复订单支付回调<br>优化充值订单逻辑，用户成功支付成功后扣除当月次数<br>新增后台首页团队统计<br>新增后台系统设置<br>新增后台修改管理员信息<br>新增后台添加管理员<br>修复登录日志问题<br>example.com.5<br>2020年6月23日00:00:00<br>开发日志：<br>新增前台优惠券列表<br>新增用户前台团队列表<br>新增用户查看团队详细<br>新增用户前台邀请好友，用户可复制链接或保存二维码<br>新增用户前台修改密码功能<br>新增支付回调支付成功后三级返佣<br>新增用户前台资金明细<br>优化充值页面，展示用户当前优惠券<br>优化后台首页显示问题<br>新增后台实名后赠送优惠券功能<br>example.com.4<br>2020年6月22日00:00:00<br>开发日志：<br>新增收款码上传<br>新增提现、提现记录<br>新增话费订单<br>优化每月订单功能<br>后台新增用户编辑功能<br>后台新增收款码管理、上传用户收款码、一键清空功能<br>后台新增话费订单功能<br>后台新增话费提现订单功能<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/TZ0ym" style="color: red;">https://mega-file.org/TZ0ym</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
